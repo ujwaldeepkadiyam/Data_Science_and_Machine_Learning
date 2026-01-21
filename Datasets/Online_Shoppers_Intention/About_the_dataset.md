@@ -1,5 +1,3 @@
----
-
 # 1. Introduction to the Dataset
 
 **Online Shoppers Purchasing Intention Dataset (UCI)**
